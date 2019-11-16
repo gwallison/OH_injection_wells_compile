@@ -1,0 +1,234 @@
+APIstr|year|quarter|API10|Comment
+ |2012|3|3416729685|OOGC Disposal; missing APIstr; inferred from other sheets
+340072167/SWIW #7|2014|2|3400721673|Typo? Only 9 digits. Inferred from July2018 SWD list
+340092348/SWIW #7|2010|3|API_HERE-0|Typo? only 9 digits in API
+34009237610000|2016|2|3400923761|Full API given; take just first 10 digits 
+3400923821|2013|4|3400923821|API10 same as APIstr - unusual without swiw# 
+34025920965/SWIW #1|2019|1|34025920965|This API is not on the list currently
+34025920965/SWIW #1|2019|2|34025920965|This API is not on the list currently
+34025920965/SWIW #1|2019|3|34025920965|This API is not on the list currently
+34025920965/SWIW #1|2019|4|34025920965|This API is not on the list currently
+3403127177, & 3403127178/SWIW #10 & 11|2014|1|3403127177| Multiple?
+3403127177, & 3403127178/SWIW #10 & 11|2014|2|3403127177| Multiple?
+3403127177, & 3403127178/SWIW #10 & 11|2014|3|3403127177| Multiple?
+3403127177, 3403127178 & 3403127241/SWIW #10, 11, & 12|2015|1|3403127177| Multiple?
+3403127177, 3403127178, & 3403127241/ SWIW #10, #11, & #12|2014|4|3403127177| Multiple?
+3403127177, 3403127178, & 3403127241/ SWIW #10, #11, & #12|2015|4|3403127177| Multiple?
+3403127177, 3403127178, & 3403127241/SWIW #10,  #11, & #12|2015|2|3403127177| Multiple?
+3405320968/SWIW #1|2016|1|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2016|2|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2016|3|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2016|4|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2017|1|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2017|2|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2017|3|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #1|2017|4|API_HERE-5|duplicate in this file; Typo? name almost identical to Huffman
+3405320968/SWIW #2|2010|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2010|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2011|1|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2011|2|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2011|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2011|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2012|1|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2012|2|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2012|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2012|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2013|1|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2013|2|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2013|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2013|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2014|1|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2014|2|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2014|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2014|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2015|1|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2015|2|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2015|3|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405320968/SWIW #2|2015|4|API_HERE-5|duplicate in this file; Typo? well own by Huffman, not EnerVest
+3405924067  & 3405924188|2012|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #1|2013|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #1|2014|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #1|2015|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2014|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2015|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2016|1|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2016|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2016|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2016|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2017|1|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2017|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2017|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2017|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2018|1|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2018|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2018|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2018|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2019|1|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2019|2|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2019|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & #13|2019|4|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & 1|2014|3|3405924067| Multiple?
+3405924067 & 3405924188/SWIW #11 & 1|2015|3|3405924067| Multiple?
+3405924067 & 3505924188|2012|3|3405924067| Multiple?
+3405924067 &4188/SWIW #11 & #1|2013|4|3405924067| Multiple?
+3405924067& 3405924188|2012|4|3405924067| Multiple?
+3405924067/SWIW #11 & 3405924188/SWIW 1|2013|1|3405924067| Multiple?
+3405924067/SWIW #11& 3405924188/SWIW#1 |2013|2|3405924067| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2016|1|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2016|2|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2016|3|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2016|4|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2017|1|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2017|2|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2017|3|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2017|4|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2018|1|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2018|2|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2018|3|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2018|4|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2019|1|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2019|2|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2019|3|3408324412| Multiple?
+3408324412 & 3408324603/ SWIW #1 & 2|2019|4|3408324412| Multiple?
+3408324412 & 3408324603/SWIW #1 & #2|2015|1|3408324412| Multiple?
+3408324412 & 3408324603/SWIW #1 & SWIW #11|2015|3|3408324412| Multiple?
+3410523619 & 3410523652/SWIW #19 & 21 |2014|2|3410523619| Multiple?
+3410523619 & 3410523652/SWIW #19 & 21 |2015|2|3410523619| Multiple?
+3410523619 &3410523652 /SWIW #19 &21|2014|3|3410523619| Multiple?
+3410523619 &3410523652/SWIW #19 & 21|2014|1|3410523619| Multiple?
+3410523619 &3410523652/SWIW #19 & 21|2015|1|3410523619| Multiple?
+3410523619 &3410523652/SWIW #19 &21|2014|4|3410523619| Multiple?
+3410523619, 3410523651, 3410523652, & 3410523637/ SWIW #19, 21, 23, 22|2015|4|3410523619| Multiple?
+3410523619, 3410523652, 3410523651, & 3410523637/SWIW #19, 21, 23, & 22|2015|3|3410523619| Multiple?
+34105236199/SWIW #19|2012|4|3410523619|Typo?  11 digits; used API inferred from other sheets
+34105623268/SWIW #18|2015|1|3410523268|Typo?  11 digits; used API inferred from other sheets
+3415521893, 1894, 3203/SWIW #6, 12, 13|2013|4|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2015|1|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2015|2|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2015|3|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2015|4|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2016|1|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2016|2|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2016|3|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2016|4|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2017|1|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2017|2|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2017|3|3415521893| Multiple?
+3415521893, 3415521894, 3415523203/ SWIW #6, #13, #12|2017|4|3415521893| Multiple?
+3415523223|2013|2|3415523223|API10 same as APIstr - unusual without swiw#
+3415524076 & 3415524075/ SWIW #21 &22|2014|2|3415524076| Multiple?
+3415524076 & 3415524075/ SWIW #21 &22|2014|3|3415524076| Multiple?
+3415524076 & 3415524075/ SWIW #21 &22|2014|4|3415524076| Multiple?
+3415524076 & 3415524075/ SWIW #21 &22|2015|2|3415524076| Multiple?
+3415524076 & 3415524075/ SWIW #21 &22|2015|3|3415524076| Multiple?
+3415524076 & 3415524075/ SWIW #21 &22|2015|4|3415524076| Multiple?
+3415524076 &3415524075/ SWIW #21 &#22|2015|1|3415524076| Multiple?
+343415121198/SWIW #6|2010|3|3415121198|Typo? double 34 at the beginning
+343415121198/SWIW #6|2010|4|3415121198|Typo? double 34 at the beginning
+343415121198/SWIW #6|2011|1|3415121198|Typo? double 34 at the beginning
+343415121198/SWIW #6|2011|2|3415121198|Typo? double 34 at the beginning
+343415121198/SWIW #6|2011|3|3415121198|Typo? double 34 at the beginning
+343415121198/SWIW #6|2011|4|3415121198|Typo? double 34 at the beginning
+4439/SWIW # 17|2012|3|3411924439|Comment 
+4439/SWIW #17|2012|4|3411924439|Comment 
+Ashtabula SWIW #21 and #28|2010|4|3400723262|Comment 
+Ashtabula SWIW #21, #28,  #30 and #32|2012|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 & 31&#32|2014|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 & 31&#32|2015|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 &#32|2012|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 &#32|2013|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 &#32|2013|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30 &#32|2014|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30, #31 &#32|2014|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30, #31 &#32|2015|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30, 31 &#32|2015|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30, and #32|2012|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30,31 & #32|2013|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30,31 &#32|2013|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2014|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2015|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2016|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2016|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2016|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2016|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2017|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2017|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31 &#32|2017|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31, #32, &#34|2017|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2018|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2018|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2018|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2018|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2019|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2019|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2019|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #30. #31. #32, & #34|2019|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #32 and #30|2011|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, #32,and #30|2011|4|3400723262| Multiple?
+Ashtabula SWIW #21, #28, and #30|2011|1|3400723262| Multiple?
+Ashtabula SWIW #21, #28, and #30|2011|2|3400723262| Multiple?
+Ashtabula SWIW #21, #28, and #30|2011|3|3400723262| Multiple?
+Ashtabula SWIW #21, #28,#30 and #32|2012|2|3400723262| Multiple?
+Ashtabula SWIW #21/#28|2010|3|3400723262|Comment 
+SWIW #5,SWIW #6 and SWIW #7|2010|3|API_HERE-2| Multiple?
+SWIW #6 and SWIW #7|2010|4|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2011|1|API_HERE-2|Comment
+SWIW #6 and SWIW #7|2011|2|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2011|3|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2011|4|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2012|1|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2012|2|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2012|3|API_HERE-2|Comment 
+SWIW #6 and SWIW #7|2012|4|API_HERE-2|Comment 
+Stark County SWIW #9 & #12|2010|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2010|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2011|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2011|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2011|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2011|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2012|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2012|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2012|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2012|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2013|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2013|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2013|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2013|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2014|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2014|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2014|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2014|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2015|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2015|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2015|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2015|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2016|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2016|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2016|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2016|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2017|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2017|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2017|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2017|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2018|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2018|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2018|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2018|4|3415121920| Multiple?
+Stark County SWIW #9 & #12|2019|1|3415121920| Multiple?
+Stark County SWIW #9 & #12|2019|2|3415121920| Multiple?
+Stark County SWIW #9 & #12|2019|3|3415121920| Multiple?
+Stark County SWIW #9 & #12|2019|4|3415121920| Multiple?
+TRUMBULL COUNTY API# 1893, 1894, 3203 SWIW #6, #12 and #13|2012|2|3415521893| Multiple?
+TRUMBULL COUNTY API# 1893, 1894, 3203 SWIW #6, #12 and #13|2012|3|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2010|3|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2010|4|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2011|1|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2011|2|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2011|3|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2011|4|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2012|1|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2012|3|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2012|4|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2013|1|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2013|2|3415521893| Multiple?
+Trumbull Co. SWIW #6, #12 and #13|2013|3|3415521893| Multiple?

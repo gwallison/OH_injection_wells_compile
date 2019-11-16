@@ -1,0 +1,20 @@
+API10|year|quarter|action|Comment
+3413320114|2011|4|sum|two entries for both in and out: different companies - change in ownership?
+3400922704|2012|2|sum|two separate payments from Carper Well Services
+3410324515|2012|2|sum|two separate payments from King Oil
+3415521893|2012|3|sum|two separate entries from Pander 
+3415522403|2012|4|sum|two entries for two different companies - change in ownership?
+3409920974|2013|3|last|duplicate entries- take just the last
+3413322523|2013|4|last|duplicate entries- take just the last
+3411721901|2014|2|sum|two entries for two different companies - change in ownership?
+3415522403|2014|2|last|duplicate volumes - related company names - take just the last
+3408923406|2015|2|last|duplicate volumes - related company names - take just the last
+3413321076|2015|2|sum|two separate entries from Salty's
+3409923158|2015|4|last|duplicate entries- take just the last
+3411524096|2017|1|last|three duplicate entries- take just the last
+3400923761|2016|2|sum|two entries for two different companies - change in ownership?
+3413322860|2018|1|last|duplicate entries- take just the last
+3412122459|2019|1|sum|second entry is empty - summing is ok.  change in ownership
+3412122459|2019|2|sum|second entry is empty - summing is ok.  change in ownership
+3412122459|2019|3|sum|second entry is empty - summing is ok.  change in ownership
+3412122459|2019|4|sum|second entry is empty - summing is ok.  change in ownership

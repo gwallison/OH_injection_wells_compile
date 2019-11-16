@@ -1,0 +1,9 @@
+*.zip
+*.pyc
+*.dbf
+*.shp
+*.bak
+.ipynb_checkpoints/*.*
+out/*.*
+out/old/*.*
+tmp/*.*
