@@ -17,6 +17,7 @@ datadir = './sources/'
 outdir = './out/'
 indir = datadir+'OH_injection/'
 pre_proc_out = outdir+'injection_tall_pre.csv'
+wide_out = outdir+'injection_wide_format.csv'
 tempf = outdir+'temp.csv'
 
 df_pre = pd.read_csv(pre_proc_out)
@@ -55,17 +56,5 @@ for yq in yqs:
     tmp = tmp.drop(['chkAPI',],axis=1)
     #dlst.append(tmp)
 
-tmp.to_csv(tempf)
-# =============================================================================
-# df_wide = pd.concat(dlst,axis=1)    
-# # df_wide.API10 = df_wide.API10.astype('str')
-# # col5.API10 = col5.API10.astype('str')
-# df_wide.to_csv(tempf)
-# # # df_wide = df_wide.filter(['API10','APIstr 2010Q3'],axis=1)
-# # col5 = col5.filter(['API10'],axis=1)
-# # # col5 = col5.sort_values(by='API10')
-# # big = pd.merge(col5,df_wide,on='API10',how='outer',validate='1:m',indicator=True)
-# # big.head()
-# df_wide.head()
-# 
-# =============================================================================
+tmp.to_csv(wide_out,index=False)
+
